@@ -1,8 +1,8 @@
-package com.frankmoley.landon.data.repository;
+package com.onurtogan.landon.data.repository;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 
-import com.frankmoley.landon.data.entity.Guest;
+import com.onurtogan.landon.data.entity.Guest;
 import org.springframework.stereotype.Repository;
 
 @Repository
