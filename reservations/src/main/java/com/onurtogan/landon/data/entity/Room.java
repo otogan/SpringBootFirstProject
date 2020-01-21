@@ -1,4 +1,4 @@
-package com.onurtogan.landon.data.entity;
+package com.frankmoley.landon.data.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

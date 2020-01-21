@@ -1,6 +1,6 @@
-package com.onurtogan.landon.data.repository;
+package com.frankmoley.landon.data.repository;
 
-import com.onurtogan.landon.data.entity.Room;
+import com.frankmoley.landon.data.entity.Room;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
